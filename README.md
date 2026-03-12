@@ -1,3 +1,3 @@
 # test
 test
-this is just a sample.
+is just a sample.
